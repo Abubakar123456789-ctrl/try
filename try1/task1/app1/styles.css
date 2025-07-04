@@ -1,0 +1,60 @@
+/* universal selector */
+*{  padding: 0;
+    margin: 0;
+
+}
+
+
+/* element selecter*/
+.fe {
+    color: #000000;
+    padding:100px;
+}
+body {
+    background-color : rgba(160, 160, 172, 0.856)
+
+ }
+ /* class selector */
+ .hi{
+    color : black;
+    padding: 50px;
+    text-align:center;
+ }
+ .ho{
+    color : green ;
+ }
+ .uu{
+    color : white;
+ }
+ .fe-i{
+    padding:10px;
+ }
+ .fe-t{
+    text-align:center;
+    font-size:30px;
+    font-weight: 500;
+    color :green;
+    margin-bottom: 10px;
+    text-decoration: underline;
+ }
+ .fe-d{
+    text-align: center;
+
+
+ }
+ .c{
+    padding: 50px;
+    text-align: center;
+    background-color:rgb(21, 207, 61);
+ }
+ .c-d{
+    padding: 15px;
+    color:azure;
+ }
+ button{
+    color:blue;
+    border:10px;
+ }
+ .c-b{
+    padding: 10px 0px 10px 0px;;
+ }
